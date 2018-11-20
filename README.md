@@ -26,6 +26,7 @@ when you try to use the **Skill** on a Mycroft device.
 If you log in to Spotify using Facebook, your password will be your _Facebook_ password, but your Spotify device username. You can get your Spotify device username [here](https://www.spotify.com/us/account/set-device-password/).
 
 _NOTE: You MUST have a Premium Spotify account to use this **Skill**. It will NOT work with a free Spotify account._
+_NOTE: If you are using a Raspberry Pi with PiCroft you need some spotify client such as Raspotify.
 
 
 ## Examples 
