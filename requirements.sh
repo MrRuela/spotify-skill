@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sudo apt-get install -yq raspotify -o DPkg::Options::=--force-confdef
+curl -sL https://dtcooper.github.io/raspotify/install.sh | sh
 exit 0
